@@ -9,6 +9,7 @@ __pycache__/
 # data in csv
 *.csv
 .env 
+*.index
 cache/
 
 # Distribution / packaging
